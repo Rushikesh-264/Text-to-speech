@@ -17,6 +17,12 @@ Usage
     The program will process the text and play back the generated speech.
     To download the speech as an audio file, click the "Save" button.
 
+
+SCREENSHOT
+----------
+![Screenshot 2024-01-08 175619](https://github.com/Rushikesh-264/Text-to-speech/assets/150276077/f1e06d47-83ce-46e0-808b-636cb9bf6f16)
+
+
 Contribution
     
     Contributions to enhance functionality, improve the user interface, or address issues are welcome. Feel free to open issues for bugs or suggestions.
