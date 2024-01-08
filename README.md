@@ -18,4 +18,8 @@ Usage
     To download the speech as an audio file, click the "Save" button.
 
 Contribution
-  Contributions to enhance functionality, improve the user interface, or address issues are welcome. Feel free to open issues for bugs or suggestions.
+    
+    Contributions to enhance functionality, improve the user interface, or address issues are welcome. Feel free to open issues for bugs or suggestions.
+
+
+Feel free to customize this README according to your project's specific details and structure.
